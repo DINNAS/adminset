@@ -1,9 +1,9 @@
-# AdminSet
+# LightOps
 <img src="https://travis-ci.org/guohongze/adminset.svg?branch=master"></img> 
 <img src="https://img.shields.io/hexpm/l/plug.svg"></img>
 [![release](https://img.shields.io/github/release/guohongze/adminset.svg)](https://github.com/guohongze/adminset/releases)
 <br>
-Adminset基于DevOps理念开发，以整合全部运维场景为己任。Adminset是一个真正的基于运维思维而开发的全自动化运维平台。<br>
+<br>
 
 ## v0.50 新功能
 全新用户权限系统<br>
@@ -61,19 +61,12 @@ http://your_server_ip<br>
 功能参考，<a href="https://github.com/guohongze/adminset/wiki/AdminSet">功能预览</a><br>
 FAQ参考，<a href="https://github.com/guohongze/adminset/wiki/FAQ">常见问题</a>
 
-# adminset demo
-每2小时重置一次数据<br>
-http://115.28.147.154<br>
-用户名admin 密码Adminset123<br>
-
 # 安全
 强烈建议您不要将程序对公网开放<br>
 如果需要公网访问请使用VPN<br>
 建议生产环境中使用https配置服务器，并对命令执行、webssh等模块进行安全强化<br>
 由于开发方便，在django的settings中开启了DEBUG，在生产中需要关闭并指定自己的域名。
 
-# 开发者交流
-请加入开发者群<br>
-3号群 730232593<br>
+
 
 
